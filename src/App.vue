@@ -63,7 +63,7 @@
     }) 
 
     saveTransactionsToLocalStorage();
-    toast.success('Transaction added;')
+    toast.success('Transaction added')
 
   }
 

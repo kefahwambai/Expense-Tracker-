@@ -1,4 +1,4 @@
 <template>
-    <h2>Expenses Tracker</h2>
+    <h2>Wallet Managa</h2>
 </template>
 
